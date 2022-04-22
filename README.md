@@ -1,5 +1,12 @@
-### Hi there 👋
+# Hi, I'm Sorangel 👋🏾 👩🏾‍💻
 
+Soy una desarrolladora frontend. Me gusta crear aplicaciones web rápidas con [React](https://es.reactjs.org/) / [Jquery](https://jquery.com/), fáciles de usar y construidas con las mejores prácticas.
+
+## Puedes encontrarme en:
+
+- Web personal [sorangelcontreras.com](https://sorangelcontreras.com)
+- [LinkedIn](https://www.linkedin.com/in/sorangel-contreras-42b0261a0/)
+- [Instagram](https://www.instagram.com/soreanzola/)
 <!--
 **sorangel/sorangel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
