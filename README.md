@@ -1,4 +1,4 @@
-# Hi, I'm Sorangel 👋🏾 👩🏾‍💻
+# Hola, soy Sorangel 👋🏾 👩🏾‍💻
 
 Soy una desarrolladora frontend. Me gusta crear aplicaciones web rápidas con [React](https://es.reactjs.org/) / [Jquery](https://jquery.com/), fáciles de usar y construidas con las mejores prácticas.
 
