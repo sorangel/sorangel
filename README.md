@@ -27,7 +27,7 @@ Conectando la estrategia de negocio, la dirección de proyectos ágiles y la ing
 ¿Buscas optimizar la tecnología de tu negocio, implementar automatizaciones con IA o necesitas dirección técnica para tu próximo proyecto? Escríbeme:
 
 - 💼 **LinkedIn:** [@sorangel-contreras](https://www.linkedin.com/in/sorangel-contreras-42b0261a0/)
-- 🌍 **Sitio Web Corporativo:** [soralogic.com](https://www.soralogic.com)
+- 🌍 **Sitio Web Corporativo:** [soralogic.com]([https://soralogic.com/])
 - 📸 **Instagram:** [@sorangeldev](https://www.instagram.com/sorangeldev/)
 
 ---
